@@ -1,0 +1,21 @@
+KNOP: draw-rectangle	3044
+setRunningMode:newRect	3044
+addRectangle	3294
+setRunningMode:newRect	3717
+setRunningMode:newRect	3719
+setRunningMode:newRect	3741
+setRunningMode:newRect	3744
+addRectangle	4630
+setRunningMode:newRect	5281
+setRunningMode:newRect	5293
+setRunningMode:newRect	5305
+setRunningMode:newRect	5315
+KNOP: go-up	5956
+KNOP: go-down	6530
+KNOP: color-fill	10360
+setRunningMode:fill	10360
+fill	11006
+fill	11616
+fill	13697
+fill	14361
+KNOP: document-new	17445

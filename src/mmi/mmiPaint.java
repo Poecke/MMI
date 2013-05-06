@@ -35,10 +35,10 @@ public class mmiPaint extends JPanel implements ActionListener {
 		toolBar.add(button);
 		toolBar.addSeparator(new Dimension(50,1));
 		button = makeToolBarButton("edit-delete", "Verwijder een vorm", "Verwijderen");
-		toolBar.add(button);
-		button = makeToolBarButton("go-down", "Verplaats de vorm naar beneden", "Lager");
-		toolBar.add(button);
-		button = makeToolBarButton("go-up", "Verplaats de vorm naar boven", "Hoger");
+		//toolBar.add(button);
+		//button = makeToolBarButton("go-down", "Verplaats de vorm naar beneden", "Lager");
+		//toolBar.add(button);
+		//button = makeToolBarButton("go-up", "Verplaats de vorm naar boven", "Hoger");
 		toolBar.add(button);
 		toolBar.addSeparator(new Dimension(50,1));
 		button = makeToolBarButton("mouse", "Gebruik de muis om vormen te vergroten of verkleinen, of ze te verplaatsen", "Muis");
@@ -175,11 +175,11 @@ public class mmiPaint extends JPanel implements ActionListener {
        }
        else if (cmd == "go-down")
        {
-    	   canvas.zSelected(-1);
+    	  // canvas.zSelected(-1);
        }
        else if (cmd == "go-up")
        {
-    	   canvas.zSelected(1);
+    	   //canvas.zSelected(1);
     	   
        }
        else if (cmd == "mouse")

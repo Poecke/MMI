@@ -1,0 +1,163 @@
+KNOP: draw-rectangle	41494
+setRunningMode:newRect	41494
+addRectangle	41909
+setRunningMode:newRect	42932
+setRunningMode:newRect	43089
+setRunningMode:newRect	43101
+setRunningMode:newRect	43113
+addRectangle	44889
+setRunningMode:newRect	45059
+addRectangle	45689
+setRunningMode:newRect	46025
+setRunningMode:newRect	46330
+setRunningMode:newRect	46341
+addRectangle	46757
+setRunningMode:newRect	46871
+setRunningMode:newRect	46882
+addRectangle	47105
+setRunningMode:newRect	47263
+setRunningMode:newRect	47275
+addRectangle	47455
+setRunningMode:newRect	47555
+addRectangle	47826
+setRunningMode:newRect	47961
+addRectangle	48244
+setRunningMode:newRect	51010
+setRunningMode:newRect	51021
+setRunningMode:newRect	51179
+setRunningMode:newRect	51213
+setRunningMode:newRect	51223
+setRunningMode:newRect	51245
+setRunningMode:newRect	51257
+KNOP: color-fill	52473
+setRunningMode:fill	52473
+fill	54835
+fill	55500
+fill	55949
+fill	57390
+fill	64162
+KNOP: mouse	68640
+setRunningMode:cursor	68640
+select	69392
+setRunningMode:cursor	71374
+setRunningMode:cursor	71418
+setRunningMode:cursor	71430
+setRunningMode:cursor	71440
+setRunningMode:cursor	71452
+setRunningMode:move	131189
+setRunningMode:cursor	131211
+KNOP: edit-delete	132270
+select	133002
+setRunningMode:cursor	133117
+setRunningMode:cursor	133272
+setRunningMode:cursor	133282
+setRunningMode:cursor	133294
+setRunningMode:cursor	133306
+setRunningMode:move	133384
+setRunningMode:cursor	133428
+setRunningMode:cursor	133440
+KNOP: edit-delete	134318
+select	134824
+setRunningMode:cursor	134948
+setRunningMode:move	134949
+setRunningMode:cursor	135038
+KNOP: edit-delete	135758
+select	136692
+setRunningMode:cursor	136817
+setRunningMode:move	136817
+setRunningMode:cursor	136860
+KNOP: edit-delete	137760
+select	138728
+setRunningMode:cursor	138830
+setRunningMode:cursor	138840
+setRunningMode:cursor	138852
+KNOP: edit-delete	139628
+KNOP: draw-triangle	140528
+setRunningMode:newTriangle	140528
+addTriangle	141102
+setRunningMode:newTriangle	142102
+setRunningMode:newTriangle	142114
+setRunningMode:newTriangle	142126
+addTriangle	145230
+setRunningMode:cursor	145422
+setRunningMode:cursor	145444
+setRunningMode:cursor	145478
+setRunningMode:cursor	145499
+setRunningMode:cursor	145511
+setRunningMode:cursor	145521
+setRunningMode:cursor	145534
+setRunningMode:cursor	145545
+setRunningMode:cursor	145555
+setRunningMode:cursor	145602
+setRunningMode:cursor	145646
+setRunningMode:cursor	147706
+setRunningMode:cursor	147728
+setRunningMode:cursor	147738
+setRunningMode:cursor	147750
+setRunningMode:cursor	147806
+setRunningMode:cursor	147828
+setRunningMode:cursor	147840
+setRunningMode:cursor	147896
+setRunningMode:cursor	147908
+setRunningMode:cursor	147918
+setRunningMode:cursor	147942
+setRunningMode:cursor	148122
+setRunningMode:cursor	148144
+setRunningMode:cursor	148166
+setRunningMode:cursor	148178
+setRunningMode:cursor	148188
+setRunningMode:cursor	148200
+setRunningMode:cursor	148212
+setRunningMode:cursor	148222
+setRunningMode:cursor	148358
+setRunningMode:cursor	148368
+setRunningMode:cursor	148380
+KNOP: edit-delete	148897
+KNOP: color-fill	150810
+setRunningMode:fill	150810
+fill	153852
+fill	301530
+fill	302733
+fill	303801
+fill	304220
+fill	304567
+KNOP: mouse	307885
+setRunningMode:cursor	307885
+select	308404
+setRunningMode:cursor	308876
+setRunningMode:cursor	308888
+setRunningMode:cursor	308900
+setRunningMode:move	311238
+setRunningMode:cursor	312891
+setRunningMode:cursor	313220
+setRunningMode:cursor	313264
+setRunningMode:cursor	314084
+setRunningMode:cursor	314096
+setRunningMode:cursor	314117
+setRunningMode:move	314288
+setRunningMode:cursor	314365
+setRunningMode:move	314658
+setRunningMode:cursor	314682
+KNOP: color-fill	315287
+setRunningMode:fill	315287
+fill	318167
+fill	321329
+fill	357723
+fill	358399
+fill	359694
+fill	365047
+KNOP: draw-rectangle	369595
+setRunningMode:newRect	369595
+addRectangle	370245
+setRunningMode:newRect	373237
+setRunningMode:newRect	373271
+setRunningMode:newRect	373284
+setRunningMode:newRect	373295
+KNOP: color-fill	374757
+setRunningMode:fill	374757
+fill	375547
+fill	377524
+fill	378570
+fill	380292
+fill	384420
+KNOP: document-new	387819
