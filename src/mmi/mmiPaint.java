@@ -46,14 +46,15 @@ public class mmiPaint extends JPanel implements ActionListener {
 		button = makeToolBarButton("color-fill", "Vul een gebied met een kleur", "Kleur"); 
 		toolBar.add(button);
 		toolBar.addSeparator(new Dimension(50,1));
+                button = makeToolBarButton("draw-triangle", "Teken een driehoek", "Driehoek");
+		toolBar.add(button);
 		//JToolBar shapeBar = new JToolBar("Shapes");
 		button = makeToolBarButton("draw-rectangle", "Teken een Rechthoek of Vierkant", "Rechthoek");
 		//shapeBar.add(button);
 		toolBar.add(button);
 		button = makeToolBarButton("draw-ellipse", "Teken een ellips of cirkel", "Ellips");
 		toolBar.add(button);
-		button = makeToolBarButton("draw-triangle", "Teken een driehoek", "Driehoek");
-		toolBar.add(button);
+
 
 		// create the canvas		
 		canvas = new mmiCanvas();
@@ -61,15 +62,15 @@ public class mmiPaint extends JPanel implements ActionListener {
 		JPanel colorsPanel = new JPanel(new FlowLayout(FlowLayout.LEADING));
 		colorsPanel.setCursor(new Cursor(Cursor.DEFAULT_CURSOR));
 		makeColorButton(Color.red, colorsPanel);
-		makeColorButton(Color.green, colorsPanel);
+                makeColorButton(Color.green, colorsPanel);
 		makeColorButton(Color.blue, colorsPanel);
 		makeColorButton(Color.yellow, colorsPanel);
-		makeColorButton(Color.magenta, colorsPanel);
-		makeColorButton(Color.pink, colorsPanel);
+                makeColorButton(Color.magenta, colorsPanel); 
+                makeColorButton(Color.pink, colorsPanel);
 		makeColorButton(new Color(160, 32, 240), colorsPanel); // purple
 		makeColorButton(Color.orange, colorsPanel);
 		makeColorButton(Color.black, colorsPanel);
-		makeColorButton(Color.white, colorsPanel);
+                makeColorButton(Color.white, colorsPanel);
 		makeColorButton(new Color(165, 42, 42), colorsPanel); // brown	
 	
 		// Lay out the main panel.
